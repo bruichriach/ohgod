@@ -1,0 +1,9 @@
+*.mod
+src/*.o
+sw.out
+src/*~
+in
+out
+data
+global
+init_grid.dat
